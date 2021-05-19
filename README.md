@@ -1,4 +1,4 @@
-- MOVIE DB
+- BASIC
 
 - npm run both
 
