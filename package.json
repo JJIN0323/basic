@@ -1,7 +1,7 @@
 {
   "name": "example",
   "version": "1.0.0",
-  "description": "Movie DB",
+  "description": "Basic",
   "main": "index.js",
   "engine": {
     "node": "10.16.0",
